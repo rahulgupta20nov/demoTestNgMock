@@ -1,0 +1,26 @@
+{
+  "name": "movie-app",
+  "description": "Movie App",
+  "main": "index.js",
+  "authors": [
+    "bradoncode"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "movies"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-bootstrap": "0.13.3",
+    "angular-route": "1.5.5",
+    "angular-mocks": "1.5.5",
+    "angular": "1.5.5"
+  }
+}
